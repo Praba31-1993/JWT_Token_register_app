@@ -1,0 +1,18 @@
+New Knowledge to learn:
+
+1. Tailwind css
+2. JWT token
+3. OTP verification
+4. How to use postman in Visual stdio
+
+
+To install Tailwind css
+
+1. npm install -D tailwindcss postcss autoprefixer
+2. npx tailwindcss init -p
+
+
+Notes:
+1. Difference between Anchor Tag and Link Tag?
+   
+   When using Anchor Tag, it reloads the entire page, but Link tag does not reload the entire page.
