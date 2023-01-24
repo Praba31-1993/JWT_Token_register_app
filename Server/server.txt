@@ -1,0 +1,9 @@
+Installed packages:
+
+1. express
+2. cors
+3. mongoose
+4. mongodb-memory-server
+5. multer
+6. nodemon
+7. morgon
